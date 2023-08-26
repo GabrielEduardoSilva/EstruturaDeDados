@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D3D549372A9A35A500860543 /* 8.c in Sources */ = {isa = PBXBuildFile; fileRef = D3D549362A9A35A500860543 /* 8.c */; };
+		D3D549392A9A361D00860543 /* 9.c in Sources */ = {isa = PBXBuildFile; fileRef = D3D549382A9A361D00860543 /* 9.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -32,6 +32,7 @@
 		D3D5491F2A9A32CC00860543 /* 6.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 6.c; sourceTree = "<group>"; };
 		D3D549342A9A344D00860543 /* 7.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 7.c; sourceTree = "<group>"; };
 		D3D549362A9A35A500860543 /* 8.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 8.c; sourceTree = "<group>"; };
+		D3D549382A9A361D00860543 /* 9.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 9.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +73,7 @@
 				D3D5491F2A9A32CC00860543 /* 6.c */,
 				D3D549342A9A344D00860543 /* 7.c */,
 				D3D549362A9A35A500860543 /* 8.c */,
+				D3D549382A9A361D00860543 /* 9.c */,
 			);
 			path = "Atividade4-ListaDeAtividades";
 			sourceTree = "<group>";
@@ -133,7 +135,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D3D549372A9A35A500860543 /* 8.c in Sources */,
+				D3D549392A9A361D00860543 /* 9.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
