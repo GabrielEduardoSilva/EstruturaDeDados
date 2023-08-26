@@ -5,6 +5,8 @@
 //  Created by Gabriel Eduardo on 26/08/23.
 //
 
+// Crie uma struct chamada "Pessoa" que contenha os seguintes campos: nome, idade e altura. Em seguida, escreva um programa que declare uma variável do tipo Pessoa, preencha seus campos e imprima os valores.
+
 #include <stdio.h>
 
 struct Pessoa {
