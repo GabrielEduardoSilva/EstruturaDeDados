@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D3D549152A9A2DAE00860543 /* 1.c in Sources */ = {isa = PBXBuildFile; fileRef = D3D549142A9A2DAE00860543 /* 1.c */; };
+		D3D549172A9A2F0500860543 /* 2.c in Sources */ = {isa = PBXBuildFile; fileRef = D3D549162A9A2F0500860543 /* 2.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		D3D5490A2A9A2D4D00860543 /* Atividade4-ListaDeAtividades */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Atividade4-ListaDeAtividades"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D3D549142A9A2DAE00860543 /* 1.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 1.c; sourceTree = "<group>"; };
+		D3D549162A9A2F0500860543 /* 2.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 2.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				D3D549142A9A2DAE00860543 /* 1.c */,
+				D3D549162A9A2F0500860543 /* 2.c */,
 			);
 			path = "Atividade4-ListaDeAtividades";
 			sourceTree = "<group>";
@@ -119,7 +121,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D3D549152A9A2DAE00860543 /* 1.c in Sources */,
+				D3D549172A9A2F0500860543 /* 2.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
