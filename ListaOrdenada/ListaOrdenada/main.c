@@ -51,7 +51,7 @@ void imprimirLista(struct Node* cabeca) {
     printf("\n");
 }
 
-int main() {
+int main(void) {
     struct Node* lista = NULL;
 
     inserirEmOrdem(&lista, 3);
