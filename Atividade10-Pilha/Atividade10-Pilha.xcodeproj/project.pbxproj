@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D30A9B552AED41A10014B313 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = D30A9B542AED41A10014B313 /* main.c */; };
+		D30A9B5C2AED47C70014B313 /* pilha.c in Sources */ = {isa = PBXBuildFile; fileRef = D30A9B5B2AED47C70014B313 /* pilha.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		D30A9B512AED41A10014B313 /* Atividade10-Pilha */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Atividade10-Pilha"; sourceTree = BUILT_PRODUCTS_DIR; };
-		D30A9B542AED41A10014B313 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		D30A9B5B2AED47C70014B313 /* pilha.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = pilha.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		D30A9B532AED41A10014B313 /* Atividade10-Pilha */ = {
 			isa = PBXGroup;
 			children = (
-				D30A9B542AED41A10014B313 /* main.c */,
+				D30A9B5B2AED47C70014B313 /* pilha.c */,
 			);
 			path = "Atividade10-Pilha";
 			sourceTree = "<group>";
@@ -119,7 +119,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D30A9B552AED41A10014B313 /* main.c in Sources */,
+				D30A9B5C2AED47C70014B313 /* pilha.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
