@@ -2,7 +2,7 @@
 //  desafio.c
 //  TabelaHash
 //
-//  Created by Gabriel Eduardo on 11/11/23.
+//  Created by Gabriel Eduardo Barbosa on 11/11/23.
 //
 
 #include <stdio.h>
